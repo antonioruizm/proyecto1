@@ -2,4 +2,5 @@ Esto es el fichero numero 3
 Nueva linea creada en la rama gris
 Esta es una nueva linea creada desde la rama verde
 Esta linea es nueva y se ha modificado desde la rama master
-Esta linea se ha modificado en la rama rojo
+Otra linea para ver las diferencias
+Ultima linea del fichero3
