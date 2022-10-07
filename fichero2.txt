@@ -1,4 +1,3 @@
 Esto es el fichero numero 2
 Esta es la segunda linea del fichero numero 2
 Esta linea es nueva
-Nueva linea en fichero2.txt pero erronea
